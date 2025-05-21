@@ -20,7 +20,7 @@ the Steinhart-Hart equation.
 
 ## Real project
 
-![Circuit Diagram](Images/RealProject.jpeg)
+![Circuit Diagram]("C:\Users\kiran\Downloads\temperature-sensor-with-arduino-main (1)\temperature-sensor-with-arduino-main\Images\Circuito.png")
 
 ## Installation
 
