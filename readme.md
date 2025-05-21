@@ -1,6 +1,5 @@
 # Temperature Sensor with Arduino and NTC 10k Sensor
 
-
 ## Description
 
 The temperature sensor is built using an NTC 10k thermistor, which changes its resistance in response to changes in temperature.
