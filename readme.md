@@ -1,8 +1,5 @@
 # Temperature Sensor with Arduino and NTC 10k Sensor
 
-![Sensor Image](Images/Thermistor.png)
-
-This is a college project that involves building a temperature sensor with Arduino and an NTC 10k sensor.
 
 ## Description
 
